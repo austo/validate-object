@@ -1,9 +1,9 @@
 {
-  "name": "validateObject",
+  "name": "validate-object",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/austo/validateObject.git"
+    "url": "https://github.com/austo/validate-object.git"
   },
   "author": {
     "name": "Austin Moran",
